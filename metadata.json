@@ -1,0 +1,5 @@
+
+{
+  "name": "TerraCast",
+  "description": "An interactive map-first weather site that aggregates all available weather APIs, calibrates/validates them using NASA Earth-observation data, and presents a single high-confidence forecast plus rich local dashboards and visual backgrounds."
+}
